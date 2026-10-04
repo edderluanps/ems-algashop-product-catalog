@@ -1,4 +1,4 @@
-package com.algaworks.algashop.productcatalog;
+package com.algaworks.algashop.product.catalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
