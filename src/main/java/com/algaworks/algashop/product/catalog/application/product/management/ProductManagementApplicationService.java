@@ -9,7 +9,6 @@ import java.util.UUID;
 
 @Service
 public class ProductManagementApplicationService implements ProductQueryService {
-
     public UUID create(ProductInput input) {
         return null;
     }
